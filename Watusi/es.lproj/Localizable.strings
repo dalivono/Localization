@@ -51,7 +51,7 @@
 
 /* Status Addons */
 
-"STATUS_ADDONS_LABEL" = "Ajustes De Estados";
+"STATUS_ADDONS_LABEL" = "Ajustes de Estados";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar el botón de descarga";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Añadir un botón en la parte inferior derecha de los estados para descargarlo.";
@@ -520,7 +520,7 @@
 "CONTACT_AND_MORE_LABEL" = "Contacto Y Mas";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Soporte";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Soporte";
-"CONTACT_SUPPORT_LABEL" = "Contact Soporte";
+"CONTACT_SUPPORT_LABEL" = "Contacto Soporte";
 "VERSIONS_TITLE" = "Versiones";
 "UPDATES_SECTION_TITLE" = "Actualizaciones";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificación automática de actualizaciones";
