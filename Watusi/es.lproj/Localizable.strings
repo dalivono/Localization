@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Sus contactos no verán que recibió sus mensajes. Sólo mostrará un check.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desactivar recibos de entrega";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "¡Advertencia! Habilitar esta característica provocará un retraso en los mensajes porque el servidor de WhatsApp dejará de enviarle nuevos mensajes si tiene muchos mensajes pendientes en el servidor que esperan ser marcados como entregados. No es posible solucionar esto ya que su servidor echó a un lado.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Establecer automaticamente su privacidad a nadie de su ultima conexion cuando WhatsApp entrar en el fondo y vuelva a configurarlo 'Mis Contactos' cuando abra WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Cambiar auto privacidad ultima conexion";
@@ -70,11 +70,11 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Compartir como GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF guardado en la biblioteca";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Guardar imagen en la biblioteca";
+"STATUS_TEXT_SHARE_IMAGE" = "Compartir imagen";
+"STATUS_TEXT_SHARE_TEXT" = "Compartir texto";
+"STATUS_TEXT_COPY_TEXT" = "Copiar texto";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texto copiado al portapapeles";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desactivar auto marcado visto";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de tus contactos tal como se visualiza y enviar manualmente los recibos visualizados mediante el botón Watusi. Los estados marcados como vistos no mostraran forzar boton de marca.";
