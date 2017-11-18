@@ -97,7 +97,7 @@
 
 "CHATS_ADDONS_LABEL" = "Ajustes de Chats";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Límite de revocación de borrado";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Límite de revocación de mensaje";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Omitir el límite de revocacion de los mensajes de 7 minutos de WhatsApp";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantener mensajes revocados por tus contactos";
@@ -368,7 +368,7 @@
 
 "NOTIFICATIONS_LABEL" = "Notificaciones";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "Reemplace todo el contenido de las notificaciones de WhatsApp con un mensaje específico para proteger su privacidad.\n\nPuede usar la notificación original usando:\n%[título] para obtener el título de la notificación\n%[mensaje] para recibir el mensaje de notificación";
 "PRIVATE_NOTIFICATION_LABEL" = "Notificaciones privadas";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Mensaje";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensaje de notificación";
@@ -515,17 +515,17 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"SUPPORT_SECTION_TITLE" = "Soporte";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"CONTACT_AND_MORE_LABEL" = "Contacto Y Mas";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Soporte";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Soporte";
+"CONTACT_SUPPORT_LABEL" = "Contact Soporte";
+"VERSIONS_TITLE" = "Versiones";
+"UPDATES_SECTION_TITLE" = "Actualizaciones";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificación automática de actualizaciones";
+"CHECK_FOR_UPDATES_BUTTON" = "Verificar para actualizaciones";
+"MORE_TWEAKS_TITLE" = "Mas Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y remover publicidad";
 "ACCOUNT" = "Cuenta";
